@@ -1,0 +1,11 @@
+# Large data/models
+Images/
+processed_images/
+Dataset/
+*.pth
+*.pt
+*.ckpt
+*.zip
+*.7z
+*.tar
+*.tar.gz
